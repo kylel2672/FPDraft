@@ -1,8 +1,8 @@
 # What is Artificial Intelligence?
-
+---
 ![](https://upload.wikimedia.org/wikipedia/commons/9/9c/Tesla_Model_S_Japan.jpg)
 _Tesla's Car, credit : https://commons.wikimedia.org_
-
+---
 Artificial Intelligence, is the ability when a computer has the intelligence of a human so
 it doesn't need an human to operate it.
 
