@@ -21,6 +21,6 @@ give the robot the ability to do things without humans. Meaning robots can make 
 mistakes and also don't need hourly wages. Meaning loads could be jobless and poor, another negative effect
 of Artificial Intelligence.
 
-[Description of Artificial Intelligence](description.md)
-[Negatives of Artificial Intelligence](negative.md)
-[Conclusion of Artificial Intelligence](conclusion.md)
+[Description of Artificial Intelligence](description.md)   
+[Negatives of Artificial Intelligence](negative.md)   
+[Conclusion of Artificial Intelligence](conclusion.md)   
