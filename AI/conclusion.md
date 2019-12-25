@@ -10,6 +10,6 @@ so if something were to happen, we would already have laws to prevent such event
  So basically, it depends how the public view of this and we should make laws to prevent
 turmoil.
 
-[Description of Artificial Intelligence](description.md)
-[Positives of Artificial Intelligence](conclusion.md)
-[Negatives of Artificial Intelligence](negative.md)
+[Description of Artificial Intelligence](description.md)   
+[Positives of Artificial Intelligence](conclusion.md)   
+[Negatives of Artificial Intelligence](negative.md)   
