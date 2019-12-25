@@ -13,7 +13,7 @@ technologies, then it will be really dangerous.
 
 ---
 
-![econmy](https://cdn.images.express.co.uk/img/dynamic/151/590x/secondary/Artificial-intelligence-AI-robots-replace-humans-machines-take-over-jobs-1511949.jpg?r=1537199484610)
+![econmy](https://cdn.images.express.co.uk/img/dynamic/151/590x/secondary/Artificial-intelligence-AI-robots-replace-humans-machines-take-over-jobs-1511949.jpg?r=1537199484610)   
 _Economy, credit : www.cnn.com_
 
 
@@ -22,6 +22,6 @@ give the robot the ability to do things without humans. Meaning robots can make 
 mistakes and also don't need hourly wages. Meaning loads could be jobless and poor, another negative effect
 of Artificial Intelligence.
 
-[Description of Artificial Intelligence](description.md)
-[Negatives of Artificial Intelligence](negative.md)
-[Conclusion of Artificial Intelligence](conclusion.md)
+[Description of Artificial Intelligence](description.md)   
+[Positives of Artificial Intelligence](positive.md)   
+[Conclusion of Artificial Intelligence](conclusion.md)   
