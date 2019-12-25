@@ -2,6 +2,7 @@
 ![tech](https://specials-images.forbesimg.com/imageserve/1138781799/960x0.jpg?fit=scale)   
    
 _AI, credit : www.forbes.com_
+
 ---
  What we can learn from AI, is that it could be good, it could be bad. We won't know until
 something either bad happens or something good happens. It really depends how the media
