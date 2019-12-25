@@ -11,7 +11,7 @@ though, isn't the only companies that use AI in their products.
 
 ---
 
-![](https://www.aitrends.com/wp-content/uploads/2018/08/8-3AIinHealthcare-2.jpg)
+![](https://www.aitrends.com/wp-content/uploads/2018/08/8-3AIinHealthcare-2.jpg)   
 _Pepper Robot, credit : www.aitrends.com_
 
 
@@ -20,6 +20,6 @@ It also is used commercially, used in shops and stores.
 This could help with serveral companies since they can have the robots work
 24/7 and you don't have to wait for human workers as they are readily available.
 
-[Description of Artificial Intelligence](description.md)
-[Negatives of Artificial Intelligence](negative.md)
-[Conclusion of Artificial Intelligence](conclusion.md)
+[Description of Artificial Intelligence](description.md)   
+[Negatives of Artificial Intelligence](negative.md)   
+[Conclusion of Artificial Intelligence](conclusion.md)   
